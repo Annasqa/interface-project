@@ -1,8 +1,8 @@
-### Basic Project2
+### Interface Project
 
-### March 26
+### March 31
 
-A Basic Structure for Maven Projects
+A Project which includes functions, arrays and interface.
 
 * Git
 * Java 7
